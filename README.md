@@ -1,8 +1,9 @@
 # 💻 Vinicius Duda Bonvin
 
-**`👨🏼‍💻 Graduando em Engenharia da Computação | Focado em Tecnologia e Desenvolvimento`**
+### 🧑‍💻 Graduando em Engenharia da Computação | Focado em Tecnologia e Desenvolvimento
 
 Me chamo Vinicius Duda Bonvin, tenho 18 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia da Computação e buscando desenvolver cada vez mais meus conhecimentos na área de tecnologia, com interesse em programação, desenvolvimento de software e inovação tecnológica. Sou uma pessoa dedicada, curiosa e comprometida com meu crescimento profissional, sempre procurando aprender novas habilidades e aprimorar meus conhecimentos técnicos. Neste momento, estou em busca de uma oportunidade de estágio onde eu possa demonstrar minhas habilidades, adquirir experiência prática e contribuir de forma positiva para o crescimento da empresa.
+
 ---
 
 ## 🚀 Projetos em Destaque
@@ -14,7 +15,7 @@ Aqui estão os principais projetos desenvolvidos por mim durante a graduação:
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠️ Linguagens e Tecnologias
 
 <img 
     align="left" 
